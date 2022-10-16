@@ -1,0 +1,7 @@
+Aqui se encuentra los enlaces para que verifique el funcionamiento de las app
+
+*peliculas
+https://snack.expo.dev/@bryancrespin450/bd9886
+
+*Clima
+https://snack.expo.dev/@bryancrespin450/091bdc
